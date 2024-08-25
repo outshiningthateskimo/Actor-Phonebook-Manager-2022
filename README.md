@@ -21,14 +21,14 @@ Similarly, if we wish to exit the program, we can press 0.
 - [4. Edit Phone Number](#4-edit-phone-number)
 - [5. Easter Egg](#5-easter-egg)
 
-#### 1. View Phonebook: 
+### 1. View Phonebook: 
 Display the entire list of actors in alphabetical order.
 
 <p>
   <img src="https://github.com/user-attachments/assets/c9bb20d8-08da-44df-b8cd-c35c3d72fcd2" width="300" alt="option-1">
 </p>
 
-#### 2. Search by Name: 
+### 2. Search by Name: 
 Search for an actor's phone number by entering their name, with case-insensitive recognition. If multiple actors share the same name, all will be listed.  
 
 For example, let’s search for Jet Li. All we need to write is “jet” and the program will find him for us. 
@@ -50,7 +50,7 @@ If the name is not in our list, the program will respond with an error message �
   <img src="https://github.com/user-attachments/assets/0ea37eb2-219b-43b6-a134-98fa17d2098c" width="250" alt="option-2-not-found">
 </p>
 
-#### 3. Add Phone Number: 
+### 3. Add Phone Number: 
 Add a phone number to the phonebook by selecting an actor without an existing number.  
 
 The reverse `grep` function was used so that only the actors without a phone number from the phone list would be shown.  
@@ -72,7 +72,7 @@ When we go back to the list, we will find his number was added:
   <img src="https://github.com/user-attachments/assets/468aea2d-eb41-4a3b-993d-bf35158c757c" width="300">
 </p>
 
-#### 4. Edit Phone Number: 
+### 4. Edit Phone Number: 
 
 For the fourth option, the phonebook will be displayed so that the user can see the list first. Then, they can input the name of the actor whose phone number has changed. 
 We know Vin Diesel changes his phone number frequently, so let’s modify it in the agenda. The `sed` command was used to replace the old phone number with a new one.
@@ -89,7 +89,7 @@ If we now look for his name and compare the two, we will see the old
   <img src="https://github.com/user-attachments/assets/ff31d9eb-a6dd-4bf3-9a52-3fdebbbdf633" width="300">
 </p>
 
-#### 5. Easter Egg:
+### 5. Easter Egg:
 Identify actors whose phone numbers contain three consecutive identical digits through a fun, hidden feature implemented using a for loop.
 
 <p>
