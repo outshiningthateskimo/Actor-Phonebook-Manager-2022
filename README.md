@@ -13,6 +13,12 @@ When we run the script, the first thing we see is the menu with the following co
 At the press of a number between 1 and 5 included, the commands will be executed accordingly.  
 Similarly, if we wish to exit the program, we can press 0.
 
+- [1. View Phonebook](#1-view-phonebook)
+- [2. Search by Name](#2-search-by-name)
+- [3. Add Phone Number](#3-add-phone-number)
+- [4. Edit Phone Number](#4-edit-phone-number)
+- [5. Easter Egg](#5-easter-egg)
+
 ## Commands
 
 #### 1. View Phonebook: 
@@ -87,6 +93,6 @@ If we now look for his name and compare the two, we will see the old
 Identify actors whose phone numbers contain three consecutive identical digits through a fun, hidden feature implemented using a for loop.
 
 <p>
-  <img src="https://github.com/user-attachments/assets/b61537ec-f0d4-4642-bfaf-70c2c8111d5e" width="300">
+  <img src="https://github.com/user-attachments/assets/b61537ec-f0d4-4642-bfaf-70c2c8111d5e" width="400">
 </p>
 
