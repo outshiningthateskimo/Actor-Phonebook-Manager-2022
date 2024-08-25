@@ -28,13 +28,13 @@ Search for an actor's phone number by entering their name, with case-insensitive
 For example, let’s search for Jet Li. All we need to write is “jet” and the program will find him for us. 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/f7722da3-0cf7-4181-9be9-6927159d3d05" width="300" alt="option-2-jet-li">
+  <img src="https://github.com/user-attachments/assets/c3201b71-b9fc-4315-bb46-5220c932c2e2" width="300" alt="option-2-jet-li">
 </p>
 
 In case there is more than one person with the same first name, all the personalities sharing the name will be shown. 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/c3201b71-b9fc-4315-bb46-5220c932c2e2" width="300" alt="option-2-tom">
+  <img src="https://github.com/user-attachments/assets/6d3c5b70-f4fb-4838-b6c9-3b54684c90b2" width="300" alt="option-2-tom">
 </p>
 
 It turns out that "Tom" is a particularly common name. If the name is not in our list, the program will respond with an error message “Name not found.”
