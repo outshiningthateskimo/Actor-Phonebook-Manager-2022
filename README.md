@@ -1,7 +1,9 @@
 # Actor-Phonebook-Manager-2022
 
-First coding project.  
-This project is a command-line agenda that stores and manages the phone numbers of 50 popular Hollywood actors. The script offers several functionalities for viewing, searching, adding, and editing within the phonebook.
+My first coding project.  
+This project is a command-line agenda that stores and manages the phone numbers of 50 popular Hollywood actors. The script offers several functionalities for viewing, searching, adding, and editing within the phonebook.  
+
+Hope you enjoy checking this out! :)
 
 ## Menu
 
