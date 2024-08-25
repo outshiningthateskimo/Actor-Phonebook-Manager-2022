@@ -3,17 +3,17 @@
 Simple shell script for managing an agenda of actors' phone numbers. First coding project.
 This project is a command-line agenda that stores and manages the phone numbers of 50 popular Hollywood actors. The script offers several functionalities for viewing, searching, adding, and editing within the phonebook.
 
-## Commands
+## Menu
 
-### Menu
-
-When we run the script, the first thing we see is the menu with these commands.
+When we run the script, the first thing we see is the menu with the following commands.
 <p>
   <img src="https://github.com/user-attachments/assets/1935192f-a972-496a-b08a-1f5d8ada06f4" width="300">
 </p>
 
 At the press of a number between 1 and 5 included, the commands will be executed accordingly. 
 Similarly, if we wish to exit the program, we can press 0.
+
+## Commands
 
 #### 1. View Phonebook: 
 Display the entire list of actors in alphabetical order.
