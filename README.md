@@ -16,9 +16,15 @@ Update an existing phone number by selecting an actor from the phonebook. The se
 #### 5. Easter Egg:
 Identify actors whose phone numbers contain three consecutive identical digits through a fun, hidden feature implemented using a for loop.
 
+### Menu
+
+When we run the script, the first thing we see is the menu with these commands.
 <p>
   <img src="https://github.com/user-attachments/assets/1935192f-a972-496a-b08a-1f5d8ada06f4" width="300">
 </p>
+
+At the press of a number between 1 and 5 included, the commands will be executed accordingly. 
+Similarly, if we wish to exit the program, we can press 0.
 
 <p>
   <img src="https://github.com/user-attachments/assets/99711ba2-2fda-4d65-bb12-bb188bb7e655" width="300">
