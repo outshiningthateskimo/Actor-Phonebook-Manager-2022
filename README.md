@@ -34,7 +34,7 @@ For example, let’s search for Jet Li. All we need to write is “jet” and th
 In case there is more than one person with the same first name, all the personalities sharing the name will be shown. 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/6d3c5b70-f4fb-4838-b6c9-3b54684c90b2" width="300" alt="option-2-tom">
+  <img src="https://github.com/user-attachments/assets/b4935d80-c6f0-4dad-88b6-c21f7b35a370" width="300" alt="option-2-tom">
 </p>
 
 It turns out that "Tom" is a particularly common name. If the name is not in our list, the program will respond with an error message “Name not found.”
