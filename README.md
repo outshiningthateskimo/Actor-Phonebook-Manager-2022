@@ -1,6 +1,15 @@
 # Actor-Phonebook-Manager-2022
 
 Simple shell script for managing an agenda of actors' phone numbers. First coding project.
+This project is a command-line agenda that stores and manages the phone numbers of 50 popular Hollywood actors. The script offers several functionalities for viewing, searching, adding, and editing within the phonebook.
+
+## Commands
+
+1. **View Phonebook:** Display the entire list of actors in alphabetical order.
+2. **Search by Name:** Search for an actor's phone number by entering their name, with case-insensitive recognition. If multiple actors share the same name, all will be listed.
+3. **Add Phone Number:** Add a phone number to the phonebook by selecting an actor without an existing number. The script uses reverse grep to filter actors without numbers.
+4. **Edit Phone Number:** Update an existing phone number by selecting an actor from the phonebook. The sed command is used to replace the old number with the new one.
+5. **Easter Egg:** Identify actors whose phone numbers contain three consecutive identical digits through a fun, hidden feature implemented using a for loop.
 
 <p>
   <img src="https://github.com/user-attachments/assets/1935192f-a972-496a-b08a-1f5d8ada06f4" width="300">
