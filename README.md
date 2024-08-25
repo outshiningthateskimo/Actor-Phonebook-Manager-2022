@@ -34,13 +34,13 @@ For example, let’s search for Jet Li. All we need to write is “jet” and th
 In case there is more than one person with the same first name, all the personalities sharing the name will be shown. 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/6d3c5b70-f4fb-4838-b6c9-3b54684c90b2" width="300" alt="option-2-tom">
+  <img src="https://github.com/user-attachments/assets/c3201b71-b9fc-4315-bb46-5220c932c2e2" width="300" alt="option-2-tom">
 </p>
 
 It turns out that "Tom" is a particularly common name. If the name is not in our list, the program will respond with an error message “Name not found.”
 
 <p>
-  <img src="https://github.com/user-attachments/assets/0ea37eb2-219b-43b6-a134-98fa17d2098c" width="300" alt="option-2-not-found">
+  <img src="https://github.com/user-attachments/assets/0ea37eb2-219b-43b6-a134-98fa17d2098c" width="250" alt="option-2-not-found">
 </p>
 
 #### 3. Add Phone Number: 
