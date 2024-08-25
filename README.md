@@ -47,19 +47,20 @@ If the name is not in our list, the program will respond with an error message â
 #### 3. Add Phone Number: 
 Add a phone number to the phonebook by selecting an actor without an existing number.  
 
-The reverse `grep` function was used so that only the actors without a phone number from the phone list would be shown. 
+The reverse `grep` function was used so that only the actors without a phone number from the phone list would be shown.  
+All there is to do is input a name from the list of results, say Robert De Niro, and then introduce their number. 
 
 <p>
   <img src="https://github.com/user-attachments/assets/0c388d64-00ae-4fb2-b815-7163f81879b8" width="300">
 </p>
 
-All there is to do is input a name from the list of results, say Robert De Niro, and then introduce their number. 
+The list before the addition:
 
 <p>
   <img src="https://github.com/user-attachments/assets/314252d8-b21a-4937-a335-7a9f6c4852a2" width="300">
 </p>
 
-When we go back to the list, we will find his number:
+When we go back to the list, we will find his number was added:
 
 <p>
   <img src="https://github.com/user-attachments/assets/468aea2d-eb41-4a3b-993d-bf35158c757c" width="300">
