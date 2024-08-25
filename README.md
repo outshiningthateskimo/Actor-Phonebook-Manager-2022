@@ -122,23 +122,3 @@ Identify actors whose phone numbers contain three consecutive identical digits t
 
 
 ............................................................................................................
-
-![image](https://github.com/user-attachments/assets/f7722da3-0cf7-4181-9be9-6927159d3d05)
-
-![image](https://github.com/user-attachments/assets/6d3c5b70-f4fb-4838-b6c9-3b54684c90b2)
-
-![image](https://github.com/user-attachments/assets/0ea37eb2-219b-43b6-a134-98fa17d2098c)
-
-![image](https://github.com/user-attachments/assets/0c388d64-00ae-4fb2-b815-7163f81879b8)
-
-![image](https://github.com/user-attachments/assets/314252d8-b21a-4937-a335-7a9f6c4852a2)
-
-![image](https://github.com/user-attachments/assets/468aea2d-eb41-4a3b-993d-bf35158c757c)
-
-![image](https://github.com/user-attachments/assets/836c8b98-a99a-42ea-9312-1807a85cbc2f)
-
-![image](https://github.com/user-attachments/assets/62d95039-3613-4d48-b343-4e28429876f7)
-
-![image](https://github.com/user-attachments/assets/ff31d9eb-a6dd-4bf3-9a52-3fdebbbdf633)
-
-![image](https://github.com/user-attachments/assets/b61537ec-f0d4-4642-bfaf-70c2c8111d5e)
