@@ -19,30 +19,32 @@ Similarly, if we wish to exit the program, we can press 0.
 Display the entire list of actors in alphabetical order.
 
 <p>
-  <img src="https://github.com/user-attachments/assets/c9bb20d8-08da-44df-b8cd-c35c3d72fcd2" width="300">
+  <img src="https://github.com/user-attachments/assets/c9bb20d8-08da-44df-b8cd-c35c3d72fcd2" width="300" alt="option-1">
 </p>
 
 #### 2. Search by Name: 
-Search for an actor's phone number by entering their name, with case-insensitive recognition. If multiple actors share the same name, all will be listed.
+Search for an actor's phone number by entering their name, with case-insensitive recognition. If multiple actors share the same name, all will be listed.  
+
+For example, let’s search for Jet Li. All we need to write is “jet” and the program will find him for us. 
+
+<p>
+  <img src="https://github.com/user-attachments/assets/f7722da3-0cf7-4181-9be9-6927159d3d05" width="300" alt="option-2-jet-li">
+</p>
+
+In case there is more than one person with the same first name, all the personalities sharing the name will be shown. 
+
+<p>
+  <img src="https://github.com/user-attachments/assets/6d3c5b70-f4fb-4838-b6c9-3b54684c90b2" width="300" alt="option-2-tom">
+</p>
+
+It turns out that "Tom" is a particularly common name. If the name is not in our list, the program will respond with an error message “Name not found.”
+
+<p>
+  <img src="https://github.com/user-attachments/assets/0ea37eb2-219b-43b6-a134-98fa17d2098c" width="300" alt="option-2-not-found">
+</p>
+
 #### 3. Add Phone Number: 
 Add a phone number to the phonebook by selecting an actor without an existing number. The script uses reverse grep to filter actors without numbers.
-#### 4. Edit Phone Number: 
-Update an existing phone number by selecting an actor from the phonebook. The sed command is used to replace the old number with the new one.
-#### 5. Easter Egg:
-Identify actors whose phone numbers contain three consecutive identical digits through a fun, hidden feature implemented using a for loop.
-
-
-<p>
-  <img src="https://github.com/user-attachments/assets/f7722da3-0cf7-4181-9be9-6927159d3d05" width="300">
-</p>
-
-<p>
-  <img src="https://github.com/user-attachments/assets/6d3c5b70-f4fb-4838-b6c9-3b54684c90b2" width="300">
-</p>
-
-<p>
-  <img src="https://github.com/user-attachments/assets/0ea37eb2-219b-43b6-a134-98fa17d2098c" width="300">
-</p>
 
 <p>
   <img src="https://github.com/user-attachments/assets/0c388d64-00ae-4fb2-b815-7163f81879b8" width="300">
@@ -56,6 +58,9 @@ Identify actors whose phone numbers contain three consecutive identical digits t
   <img src="https://github.com/user-attachments/assets/468aea2d-eb41-4a3b-993d-bf35158c757c" width="300">
 </p>
 
+#### 4. Edit Phone Number: 
+Update an existing phone number by selecting an actor from the phonebook. The sed command is used to replace the old number with the new one.
+
 <p>
   <img src="https://github.com/user-attachments/assets/836c8b98-a99a-42ea-9312-1807a85cbc2f" width="300">
 </p>
@@ -67,6 +72,9 @@ Identify actors whose phone numbers contain three consecutive identical digits t
 <p>
   <img src="https://github.com/user-attachments/assets/ff31d9eb-a6dd-4bf3-9a52-3fdebbbdf633" width="300">
 </p>
+
+#### 5. Easter Egg:
+Identify actors whose phone numbers contain three consecutive identical digits through a fun, hidden feature implemented using a for loop.
 
 <p>
   <img src="https://github.com/user-attachments/assets/b61537ec-f0d4-4642-bfaf-70c2c8111d5e" width="300">
