@@ -13,13 +13,13 @@ When we run the script, the first thing we see is the menu with the following co
 At the press of a number between 1 and 5 included, the commands will be executed accordingly.  
 Similarly, if we wish to exit the program, we can press 0.
 
+## Commands
+
 - [1. View Phonebook](#1-view-phonebook)
 - [2. Search by Name](#2-search-by-name)
 - [3. Add Phone Number](#3-add-phone-number)
 - [4. Edit Phone Number](#4-edit-phone-number)
 - [5. Easter Egg](#5-easter-egg)
-
-## Commands
 
 #### 1. View Phonebook: 
 Display the entire list of actors in alphabetical order.
