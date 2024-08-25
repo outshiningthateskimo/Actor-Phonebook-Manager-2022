@@ -1,0 +1,50 @@
+1.  Al Pacino - 0758621663
+2.  Arnold Schwarzenegger - 0791483961
+3.  Ben Affleck - 
+4.  Brad Pitt - 0771290087
+5.  Bruce Lee - 0784726313
+6.  Bruce Willis - 0779438426
+7.  Cameron Diaz - 
+8.  Chris Evans - 0712026575
+9.  Christian Bale - 0727776730
+10.  Denzel Washington - 0791448394
+11.  Drew Barrymore - 
+12.  Emma Stone - 0720138130
+13.  Emma Watson - 0752142576
+14.  George Clooney - 0787975798
+15.  Gerard Butler - 0789056999
+16.  Hugh Jackman - 0748023514
+17.  Jackie Chan - 0733781795
+18.  James Franco - 0716831449
+19.  Jason Statham - 0783470660
+20.  Jean-Claude Van Damme - 0751731799
+21.  Jennifer Lopez - 
+22.  Jet Li - 0750849019
+23.  Jim Carrey - 0759417722
+24.  Johnny Depp - 0747329960
+25.  Keanu Reeves - 0781190739
+26.  Leonardo DiCaprio - 0733728345
+27.  Liam Neeson - 0784288009
+28.  Macaulay Culkin - 0774830078
+29.  Mark Rufallo - 
+30.  Mark Wahlberg - 0751095928
+31.  Matt Damon - 0726458643
+32.  Mel Gibson - 0748618281
+33.  Morgan Freeman - 0792012465
+34.  Natalie Portman - 0747198844
+35.  Paul Walker - 0780901008
+36.  Robert De Niro - 
+37.  Robert Downey Jr - 0744929983
+38.  Robin Williams - 0730999106
+39.  Rowan Atkinson - 0733561018
+40.  Russell Crowe - 0735567832
+41.  Samuel L. Jackson - 0731961204
+42.  Shia LaBeouf - 0747544769
+43.  Sylvester Stallone - 0769830038
+44.  Tom Cruise - 
+45.  Tom Hanks - 0711361762
+46.  Tom Hardy - 0759173818
+47.  Tom Holland - 0741082324
+48.  Vin Diesel - 0726805555
+49.  Will Smith - 0722475469
+50.  Zendaya - 0786307056
